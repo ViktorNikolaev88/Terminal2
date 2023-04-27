@@ -312,6 +312,8 @@ tf_2.txt:the seConD 2
 tf_6.txt:
 
 ```
+-v - исключает строки, содержащие шаблон
+
 ## 32. Найти только название и путь к файлам где нет комбинации "second"
 ```
 nikol@DESKTOP-A1PNQL6 MINGW64 ~/git/terminal2/dir_1
